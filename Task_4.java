@@ -5,6 +5,7 @@
 // Треугольное число 1 + 2 + 3 + 4 + 5 = 15
 // n! 1 * 2 * 3 * 4 * 5 = 120
 
+package Java_Homework_1;
 
 import java.util.Scanner;
 
