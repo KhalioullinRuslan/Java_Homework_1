@@ -7,7 +7,7 @@
 // Вывод: 24 + 45 = 69
 
 
-
+package Java_Homework_1;
 
 import java.util.Scanner;
 
