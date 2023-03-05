@@ -1,5 +1,7 @@
 // Реализовать простой калькулятор (+ - / *)
 
+package Java_Homework_1;
+
 import java.util.Scanner;
 
 public class Task_6 {
