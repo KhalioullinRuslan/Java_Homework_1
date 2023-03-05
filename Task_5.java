@@ -1,5 +1,6 @@
 // Вывести все простые числа от 1 до 1000
 
+package Java_Homework_1;
 
 public class Task_5 {
     public static void main(String[] args) {
